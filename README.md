@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SpringBoot & SwiftUi ,**
 
-- 👯 I’m looking to collaborate on **iOS Mobile apps and any Java projects**
+- 👯 I’m looking to collaborate on **iOS Mobile apps and any Java and JavaScript projects**
 
 - 💬 Ask me about **Swift, Uikit ,MVVM,Unit Testing**
 
