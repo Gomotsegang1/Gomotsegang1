@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gomotsegang Matloa</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h3 align="center">A passionate frontend/Mobile developer from South Africa</h3>
 
 - 🔭 I’m currently working on **Bettering my programming Skills**
 
